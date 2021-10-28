@@ -1,4 +1,5 @@
 # Rubik's Cube simulator
+![image](https://raw.githubusercontent.com/michaelusner/rubiks-cube/master/screenshot.png)
 ## Building in Ubuntu:
   ```
   apt update
