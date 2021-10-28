@@ -1,5 +1,8 @@
 # Rubik's Cube simulator
 ![image](https://raw.githubusercontent.com/michaelusner/rubiks-cube/master/screenshot.png)
+## Running
+Download the latest release for your platform and run it
+
 ## Building in Ubuntu:
   ```
   apt update
